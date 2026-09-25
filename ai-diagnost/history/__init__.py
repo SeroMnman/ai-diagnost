@@ -1,0 +1,1 @@
+"""Логика проверки: baseline, whitelist, executor, intent, analyzer, pipeline."""
